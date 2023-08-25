@@ -1,0 +1,49 @@
+.nav-edit{
+    background-color: rgb(251, 240, 76);
+}
+
+/* .login-button{
+    background-color: beige;
+} */
+.login-edit{
+    padding-left: 20px;
+}
+nav{
+    font-size:x-large;
+}
+body{
+    background-image: "bg.jpg";
+    width:auto;
+    height: auto;
+
+}
+a{
+    outline-color: black;
+}
+.login-logo{
+    width: 60px;
+}
+.heading-text{
+    text-align: center;
+}
+.form-edit{
+    text-align: center;
+    background: #98fdff;
+    border: 3px solid black;  
+}
+.username{
+    padding: 30px;
+}
+.password{
+    padding: 30px;
+}
+.bg-color-edit{
+    background: #4ffaf7;
+}
+/* .nav-color-edit{
+    background: #ffc489;
+} */
+.footer-edit{
+    text-align: center;
+}
+
